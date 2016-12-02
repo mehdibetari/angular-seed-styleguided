@@ -9,8 +9,7 @@
 
         vm = this;
 
-        this.name = 'Kaiser Sose';
-        this.number = '867-5309';
+        this.imagePath = 'http://lorempixel.com/400/200';
 
     };
 })();
