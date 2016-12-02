@@ -1,42 +1,4 @@
-# A Best Practices Seed for AngularJS Apps 
-
-This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app. 
-
-It has been forked from the [angular-seed] (https://github.com/angular/angular-seed) project and refactored to use the best practices/style guide written and maintained by John Papa -- [Style Guide](https://github.com/johnpapa/angular-styleguide). 
-
-This seed wires together a basic app, two components/controllers and one service.  There is intentnially minimal build infrastructure.
-
-## Audience 
-This seed is intended for beginning Angular developers who want a simple app wired together that:
-
-* reflects best practices for real angularjs apps
-* does not overwhelm with "unecessary" tools and process
-
-## Getting Started
-
-To get you started you can simply clone the angular-seed-styleguided-stylguided repository and install the dependencies:
-
-### Prerequisites
-
-You need git to clone the angular-seed-styleguided repository. You can get git from
-[http://git-scm.com/](http://git-scm.com/).
-
-You must have node.js and
-its package manager (npm) installed.  You can get them from [http://nodejs.org/](http://nodejs.org/).
-
-### Clone angular-seed-styleguided
-
-Clone the angular-seed-styleguided repository using [git][git]:
-
-```
-git clone https://github.com/angular/angular-seed-styleguided.git
-cd angular-seed-styleguided
-```
-or
-
-```bash
-git clone --depth=1 https://github.com/angular/angular-seed-styleguided.git <your-project-name>
-```
+#LAZARUS REQUEST FORM
 
 ### Tool Dependencies
 
